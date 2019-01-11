@@ -227,4 +227,3 @@
             ├── 物联网与互联网对比.png
             └── 物联网设备安全分析.png
     
-更多安全资讯敬请关注[SecWiki](http://www.sec-wiki.com/)，另外一个项目[Mind-Map](https://github.com/phith0n/Mind-Map)也提供了一些安全方面的脑图。
